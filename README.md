@@ -183,15 +183,15 @@ XHTML tags, classes, and IDs. Below is a sample styling, but
 this is by far not the most you can do.
 
 ```html
-&lt;div class="simplePassMeter meterGood" id="ex1_simplePassMeter"&gt;
-  &lt;p&gt;
-    &lt;span class="simplePassMeterIcon" /&gt;
-    &lt;span class="simplePassMeterText"&gt;Your password is good&lt;/span&gt;
-  &lt;/p&gt;
-  &lt;div class="simplePassMeterBar"&gt;
-    &lt;div class="simplePassMeterProgress" /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+<div class="simplePassMeter meterGood" id="ex1_simplePassMeter">
+  <p>
+    <span class="simplePassMeterIcon" />
+    <span class="simplePassMeterText">Your password is good</span>
+  </p>
+  <div class="simplePassMeterBar">
+    <div class="simplePassMeterProgress" />
+  </div>
+</div>
 ```
 
 ```css
@@ -220,7 +220,7 @@ this is by far not the most you can do.
 ### Basic Usage
 
 ```html
-&lt;input type='password' id='myPassword' name='myPassword' /&gt;
+<input type='password' id='myPassword' name='myPassword' />
 ```
 
 ```js
