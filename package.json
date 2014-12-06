@@ -1,0 +1,22 @@
+{
+  "name": "jquerySimplePassMeter",
+  "version": "0.6.0",
+  "main": "jquery.simplePassMeter.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakerella/jquerySimplePassMeter.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "form",
+    "password",
+    "authentication",
+    "validation"
+  ],
+  "author": "Jordan Kasper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakerella/jquerySimplePassMeter/issues"
+  },
+  "homepage": "https://github.com/jakerella/jquerySimplePassMeter"
+}
