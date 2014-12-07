@@ -84,7 +84,7 @@ what you need.
 
 These requirements are already built-in, just specify them in the
 'requirements' block of your options object to turn them on. 
-See the <a href='http://jordankasper.com/jquery/meter'>Examples</a> page for details on common usage.
+See the <a href='http://jordankasper.com/jquery/meter/examples'>Examples</a> page for details on common usage.
 
 <table>
   <thead>
@@ -141,7 +141,7 @@ See the <a href='http://jordankasper.com/jquery/meter'>Examples</a> page for det
 **_Built-in Ratings_**
 
 These ratings are already built-in, they will be used unless you
-override them. See the <a href='http://jordankasper.com/jquery/meter'>Examples</a> page for
+override them. See the <a href='http://jordankasper.com/jquery/meter/examples'>Examples</a> page for
 details on specifying your own ratings.
   
 <table>
@@ -240,7 +240,7 @@ $('#myPassword').simplePassMeter({
 });
 ```
 
-You can find [more examples](http://jordankasper.com/jquery/meter) on my personal site.
+You can find [more examples](http://jordankasper.com/jquery/meter/examples) on my personal site.
   
 ### Tested Browsers
 
