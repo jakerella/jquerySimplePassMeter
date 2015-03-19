@@ -1,6 +1,7 @@
 {
-  "name": "jquerySimplePassMeter",
+  "name": "jquery-simple-pass-meter",
   "version": "0.6.0",
+  "description": "Simple password strength checker and UI",
   "main": "jquery.simplePassMeter.js",
   "repository": {
     "type": "git",
